@@ -1,0 +1,314 @@
+#navbar{
+    background-color: white;
+}
+#main{
+    background-color: white;
+}
+#header{
+    height: 80px;
+}
+#image{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background-color: #eeeeee;
+}
+#grid1{
+    background-color: #478ac9;
+    height: 250px;
+}
+#grid2{
+    background-color: #f5d654;
+    height: 250px;
+}
+#grid3{
+    background-color: #f1c50e;
+    height: 250px;
+}
+#grid4{
+    background-color: #e68387;
+    height: 250px;
+}
+#page3{
+    background-color: blueviolet;
+    display: flex;
+}
+h1{
+    justify-content: center;
+}
+#address{
+    background-color: #eeeeee;
+}
+#email{
+    background-color: #eeeeee;
+}
+#call{
+    background-color: #eeeeee;
+}
+.image-text{
+    display: flex;
+    align-items: center;
+}
+.col-sm{
+    display: flex;
+    align-items: center;
+}
+.rounded-pill{
+    width:40px;
+}
+
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border: #674ea7;
+    
+}
+.container-fluid{
+    display: flex;
+    align-items: center;
+}
+.slider{
+    background-image: url(../components/images/background.jpg);
+}
+.firstImg{
+
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.more-h1{
+    color: white;
+    margin: 0;
+    /* letter-spacing: normal; */
+    font-weight: 700;
+    /* text-transform: none;     */
+}
+.more-p{
+    /* margin: 30px 78px 0 0; */
+    color: white;
+    text-align: left;
+    display: block;
+}
+.more-a{
+    color: white;
+    font-weight: 400;
+
+}
+.keyImg{
+    display: flex;
+    justify-content: center;
+    height: 526px;
+    width: 600px;
+    object-position: 43.75% 50%;
+
+}
+.key-h1{
+    font-weight: 400;
+    font-size: 40px;
+    color: white;
+}
+
+.fa-solid.fa-laptop-code{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.fa-solid.fa-briefcase{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.fa-solid.fa-table-cells-large{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.fa-solid.fa-mobile{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.data{
+    background-color: #db545a;
+    color: white;
+    
+}
+.dataImg{
+    height: 300px;
+    width: 500px;
+  
+    
+}
+.col-sm-4{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+.col-md-7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.data-a{
+    color: white;
+}
+.data-aa{
+    color: white;
+    padding: 40px;
+}
+.data-p{
+   padding: 40px;
+}
+.itImg{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.it-h1{
+    color: #478ac9 ;
+}
+.it-a{
+    color: #478ac9 ;
+    font-weight: 400;
+}
+.btn.btn-light{
+    background-color: #478ac9;
+    border-color: #478ac9;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+}
+
+.AraSayfa{
+    background-color: #db545a ;
+    padding: 30px;
+}
+.back-image{
+    background-image: url(../components/images/cizgiler.png);   
+    margin: 60px 116px 0 600px;
+    background-position: 50% 50%;
+    width: 600px;
+    min-height: 969px;
+    background-size: initial;
+    background-repeat: repeat;
+}
+.image2{
+    width: 900px;
+    height: 750px;
+    margin: -1050px auto 0 -200px;
+    object-fit: cover;
+    
+    
+}
+.icerik{
+    margin: -358px 0 60px auto;
+    width: 590px;
+}
+.contact{
+    background-color: #db545a;
+    display: flex;
+}
+#address{
+    min-width: 400px;
+    min-height: 200px;
+}
+#email{
+    min-width: 400px;
+    min-height: 200px;
+}
+#call{
+    min-width: 400px;
+    min-height: 200px;
+}
+#grid-1{
+    height: 250px;
+    background-color: white;
+}
+#grid-2{
+    height: 250px;
+    background-color: white;
+}
+#grid-3{
+    height: 250px;
+    background-color: #eeeeee;
+}
+#grid-4{
+    height: 250px;
+    background-color: white;
+}
+.ara-h1{
+    font-weight: 400;
+    font-size: 20px;
+    color: black;
+}
+.fa-solid.fa-lightbulb{
+    color: #478ac9;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fa-solid.fa-wifi{
+    color: #478ac9;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fa-solid.fa-code-compare{
+    color: #478ac9;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    color: #478ac9;
+    font-size: large;
+    size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.Web{
+    background-color: #db545a ;
+    padding: 30px;
+}
+.web-image{
+    background-image: url(../components/images/cizgiler.png);   
+    margin: -318px 500px 0 200px;
+    background-position: 50% 50%;
+    width: 530px;
+    min-height: 614px;
+    background-size: initial;
+    background-repeat: repeat;
+    /* margin-left: 72px; */
+}
+.web-color{
+    background-color: #f1c50e;
+    height: 579px;
+    width: 682px;
+    margin: 186px 0 0 500px;
+}
+.image3{
+    width: 600px;
+    height: 550px;
+    margin: -330px 102px 0 auto;
+    object-fit: cover;
+}

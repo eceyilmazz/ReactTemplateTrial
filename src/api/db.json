@@ -1,0 +1,171 @@
+{
+    "contents": [
+        {
+            "id": "1",
+            "pageName": "Slider",
+            "title": "Web Software Developers",
+            "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+            "detail": "Image from",
+            "detailUrl": "https://www.freepik.com/vectors/computer",
+            "btnContent": "Read More",
+            "image": "resimler/first.jpg",
+            "styles": {
+                "h1": "more-h1",
+                "p": "more-p",
+                "a": "more-a"
+            }
+        },
+        {
+            "id": "2",
+            "pageName": "It",
+            "title": "IT Solutions",
+            "body": "We collaborate with you to create new value through digital transformation. We have hundreds of specialists at your service.",
+            "detail": "Image from",
+            "detailUrl": "https://www.freepik.com/vectors/computer",
+            "btnContent": "Learn More",
+            "image": "resimler/it.jpg",
+            "styles": {
+                "h1": "it-h1",
+                "p": "it-p",
+                "a": "it-a"
+            }
+        },
+        {
+            "id": "3",
+            "pageName": "ItSol",
+            "title": "IT Solutions",
+            "body": "We collaborate with you to create new value through digital transformation. We have hundreds of specialists at your service.",
+            "detail": "Image from",
+            "detailUrl": "https://www.freepik.com/vectors/computer",
+            "btnContent": "Learn More",
+            "image": "resimler/ffff.jpg",
+            "styles": {
+                "h1": "it-h1",
+                "p": "it-p",
+                "a": "it-a"
+            }
+        }
+    ],
+
+
+    "icons": [
+        {
+            "id": "1",
+            "pageName": "Key",
+            "grid": "grid1",
+            "icon": "fa-solid fa-laptop-code",
+            "title": "Development",
+            "styles": {
+                "color": "white",
+                "fontWeight": "400",
+                "fontSize": "40px"
+            }
+        },
+        {
+            "id": "2",
+            "pageName": "Key",
+            "grid": "grid2",
+            "icon": "fa-solid fa-briefcase",
+            "title": "Top Skills",
+            "styles": {
+                "color": "white",
+                "fontWeight": "400",
+                "fontSize": "40px"
+            }
+
+        },
+        {
+            "id": "3",
+            "pageName": "Key",
+            "grid": "grid3",
+            "icon": "fa-solid fa-table-cells-large",
+            "title": "Design",
+            "styles": {
+                "color": "white",
+                "fontWeight": "400",
+                "fontSize": "40px"
+            }
+        },
+        {
+            "id": "4",
+            "pageName": "Key",
+            "grid": "grid4",
+            "icon": "fa-solid fa-mobile",
+            "title": "Responsive",
+            "styles": {
+                "color": "white",
+                "fontWeight": "400",
+                "fontSize": "40px"
+            }
+        },
+        {
+            "id": "5",
+            "pageName": "AraSayfa",
+            "grid": "grid1",
+            "icon": "fa-solid fa-lightbulb",
+            "title": "DEVELOPMENT",
+            "styles": {
+                "color": "black",
+                "fontWeight": "400",
+                "fontSize": "20px"
+            }
+        },
+        {
+            "id": "6",
+            "pageName": "AraSayfa",
+            "grid": "grid2",
+            "icon": "fa-solid fa-wifi",
+            "title": "5G NETWORK",
+            "styles": {
+                "color": "black",
+                "fontWeight": "400",
+                "fontSize": "20px"
+            } 
+        }
+    ],
+    "contacts":[
+        {
+            "id": "1",
+            "name": "address",
+            "title": "Address",
+            "icon": "fa-solid fa-location-pin",
+            "content": "Keas 69 Str. 15234,Chalandri Athens,Greece"
+        },
+        {
+            "id": "2",
+            "name": "email",
+            "title": "Email",
+            "icon": "fa-solid fa-envelope",
+            "content": "ylzece19@gmail.com"
+        },
+        {
+            "id": "3",
+            "name": "call",
+            "title": "Call Us",
+            "icon": "fa-solid fa-phone-volume",
+            "content": "+30-2106019311"
+        }
+    ],
+    "datas":[
+        {
+            "id":"1",
+            "title": "01.GOALS",
+            "content": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+            "link": "https://nicepage.com/website-builder",
+            "styles":{
+                "p": "data-p",
+                "a": "data-aa"
+            }
+        },
+        {
+            "id":"2",
+            "title": "02.STRATEGY",
+            "content": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+            "link": "https://nicepage.com/website-builder",
+            "styles":{
+                "p": "data-p",
+                "a": "data-aa"
+            }
+        }
+    ]
+}
